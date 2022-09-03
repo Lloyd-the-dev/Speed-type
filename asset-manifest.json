@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Speed-type/static/css/main.d50368fb.css",
+    "main.js": "/Speed-type/static/js/main.28eca9f4.js",
+    "static/media/PressStart2P.ttf": "/Speed-type/static/media/PressStart2P.2ebf1a35a67b4271603e.ttf",
+    "index.html": "/Speed-type/index.html",
+    "main.d50368fb.css.map": "/Speed-type/static/css/main.d50368fb.css.map",
+    "main.28eca9f4.js.map": "/Speed-type/static/js/main.28eca9f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d50368fb.css",
+    "static/js/main.28eca9f4.js"
+  ]
+}
